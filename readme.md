@@ -1,10 +1,10 @@
 
-# Rendering and Physics Simulation in low code web app
-This code implements the physics simulation framework pybullet into a streamlit UI for easy web server development and custom formatting of results. This project is written in [Pure Python]() in under 100 lines of code. Created by Brian Lesko for Learning Purposes.
+# Rendering a robot in a web app
+This code implements the physics simulation framework pybullet and renders a robot. This project is written in [Pure Python]() in under 100 lines of code. Created by Brian Lesko for Learning Purposes.
 
 &nbsp;
 
-<div align="center"><img src="docs/preview.png" width="800"></div>
+<div align="center"><img src="docs/preview.gif" width="800"></div>
 
 &nbsp;
 

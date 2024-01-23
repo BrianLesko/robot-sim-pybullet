@@ -1,5 +1,5 @@
 # Brian Lesko 
-# This is my first time rendering anything, cool
+# This is my second time rendering anything, cool
 # 1/22/24
 # Robotics Engineer
 
